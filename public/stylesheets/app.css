@@ -1,0 +1,30 @@
+i.icon{
+  font-size: 1.75em;
+}
+.container.main {
+  margin-top: 7rem;
+}
+
+#delete{
+  display: inline;
+}
+
+#fonttitle{
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+#fontdescription{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
+#fonthead{
+  font-family: 'Karla', sans-serif;
+  font-weight: bold;
+}
+
+#time{
+  font-family: 'EB Garamond', serif;
+  font-style: italic;
+  font-weight: bold;
+}
